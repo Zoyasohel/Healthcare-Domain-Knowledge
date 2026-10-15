@@ -15,6 +15,3 @@ Lurie uses AI to help, not to replace doctors.
 - It helps spot a serious infection (sepsis) early in kids.
 
 The tricky part is that AI can make mistakes. So they test it carefully before using it and train their staff on it.
-
-## In short
-Lurie is a strong hospital, but it loses money, there aren't enough kids' doctors, and other hospitals are closing their kids' sections. They're trying to grow and use AI carefully to help.

@@ -22,3 +22,5 @@ This part is just my own thinking from what I read:
 - They had a cyberattack in the past, so keeping patient data secure is important, especially when using more AI.
 - Kids are different from adults, so there could be more AI tools made just for children.
 
+## My summary
+Lurie is a kids-only hospital that wants better health for every child. They already use some AI, but there is still room to make it safer, used more often, and built for kids.
