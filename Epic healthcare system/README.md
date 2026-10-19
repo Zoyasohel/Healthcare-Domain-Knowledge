@@ -1,26 +1,29 @@
-# Epic Healthcare System 
+# How Epic Keeps Kids Safe
 
-## What is Epic?
-Epic is software that hospitals use to keep all of a patient's info in one place. Doctors, nurses, pharmacists and patients all use the same digital file, so nobody has to pass papers around or repeat the same info again and again.
+Kids are not small adults. Their medicine dose often depends on their **weight** (and sometimes age), so mistakes are easy to make and can be dangerous. Epic (a hospital record system) works like a safety net that double-checks things.
 
-## The main tools I learned about
+## What Epic does
 
-### 1. Doctor notes (Hyperspace)
-This is the main screen doctors and nurses use. They open a patient's file, read the history and allergies, and type their notes there.
+- **Dose checking:** When a doctor orders a medicine, Epic checks if the dose is safe for the child's weight. If it's too high or too low, an alert shows the safe range.
+- **Growth charts:** These compare a child's height, weight, head size and BMI with other kids the same age. Epic uses data from the CDC and WHO, and has special charts for premature babies and some conditions like Down syndrome. They can also help spot a weight that looks wrong.
+- **Human checks:** Pharmacists and nurses also review orders. The software helps them, it doesn't replace them.
 
-### 2. Patient app (MyChart)
-This is the app patients use. In it you can:
-- see your test results
-- book appointments
-- message your doctor
-- ask for medicine refills
+## What can still go wrong
 
-### 3. Pharmacy tool (Willow)
-The doctor sends the prescription and the pharmacist checks it here. They make sure the medicine is safe for the patient (no allergies, no bad mixing with other medicines).
+- **Wrong weight typed in.** In one real case (a general EHR, not confirmed to be Epic), weight was typed in pounds instead of kilograms, so the child got double the dose.
+- **Rules aren't perfect.** A study at Cincinnati Children's (uses Epic) found the vendor's dosing rules were accurate about 57.6% of the time on average, so hospitals have to adjust them.
+- **Too many alerts.** Doctors may start ignoring them (called alert fatigue).
 
-## How is patient data kept safe?
-- Locks: you need a login to open a file, and you only see what your job needs.
-- Tracking: Epic records who opened which file, so snooping gets caught.
-- Rules: laws like HIPAA give big punishments for leaking or misusing data.
+## Simple way to explain it
 
-Note: no system is 100% perfect. A lot of leaks happen because of stolen passwords or careless people, not because the software is broken.
+Epic is like a GPS for medicine. It checks the child's weight and age to say if the dose looks right. But if you type in wrong info, it can go wrong, so humans double-check.
+
+## Note
+
+Every hospital sets up Epic differently, so features can vary. This is for learning only, not medical advice.
+
+## Sources
+
+- Pew Charitable Trusts report on EHR pediatric medication safety (2019)
+- University of Iowa Epic page on Growth Charts
+- Cincinnati Children's study on dosing rule accuracy (PMC3957390)
