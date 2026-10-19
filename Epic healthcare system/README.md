@@ -20,10 +20,4 @@ Epic is like a GPS for medicine. It checks the child's weight and age to say if 
 
 ## Note
 
-Every hospital sets up Epic differently, so features can vary. This is for learning only, not medical advice.
-
-## Sources
-
-- Pew Charitable Trusts report on EHR pediatric medication safety (2019)
-- University of Iowa Epic page on Growth Charts
-- Cincinnati Children's study on dosing rule accuracy (PMC3957390)
+Every hospital sets up Epic differently, so features can vary. This is for learning only, not medical advice
