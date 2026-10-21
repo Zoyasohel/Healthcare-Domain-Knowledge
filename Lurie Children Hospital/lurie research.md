@@ -1,4 +1,4 @@
-# Saras Research: Lurie Children's Hospital
+# Lurie Research
 
 ## Overview
 
